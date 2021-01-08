@@ -1,0 +1,16 @@
+server:
+  port: 8080
+
+person:
+     name: coydone
+     age: 18
+     happy: false
+     birth: 2020/5/7
+     maps: { k1: v1,k2: v2 }
+     lists:
+       - code
+       - music
+       - girl
+     dog:
+       name: 旺财
+       age: 3

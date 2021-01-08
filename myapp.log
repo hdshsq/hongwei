@@ -1,0 +1,7 @@
+2020-10-14 === [main] === INFO  === cn.song.hongwei.HongweiApplicationTests ==== Starting HongweiApplicationTests on LAPTOP-K1CFPGNS with PID 4280 (started by GZ in D:\Users\96212\IdeaProjects\hongwei)
+2020-10-14 === [main] === INFO  === cn.song.hongwei.HongweiApplicationTests ==== No active profile set, falling back to default profiles: default
+2020-10-14 === [main] === INFO  === o.s.scheduling.concurrent.ThreadPoolTaskExecutor ==== Initializing ExecutorService 'applicationTaskExecutor'
+2020-10-14 === [main] === INFO  === o.s.b.a.web.servlet.WelcomePageHandlerMapping ==== Adding welcome page: class path resource [static/index.html]
+2020-10-14 === [main] === INFO  === cn.song.hongwei.HongweiApplicationTests ==== Started HongweiApplicationTests in 3.356 seconds (JVM running for 4.96)
+2020-10-14 === [main] === ERROR === cn.song.hongwei.sys.logger.Log ==== 测试信息111
+2020-10-14 === [Thread-2] === INFO  === o.s.scheduling.concurrent.ThreadPoolTaskExecutor ==== Shutting down ExecutorService 'applicationTaskExecutor'

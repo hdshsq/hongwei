@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!-- namespace需要写到类 -->
+<mapper namespace="cn.song.hongwei.sys.mapper.SysUserMappers">
+
+    <insert id="insertUser" useGeneratedKeys="true" keyColumn="uid" keyProperty="uid">
+        INSERT
+            user_test(uid,username,
+            password,role,
+            employer,address)
+        VALUE (
+            #{uid}, #{username},
+            #{password}, #{role},
+            #{employer}, #{address}
+        )
+
+    </insert>
+
+    <select id="findUserByUsername" resultType="cn.song.hongwei.sys.pojo.UserDO" parameterType="String">
+        SELECT
+            uid,username,
+            password,role,
+            employer,address
+        FROM
+            user_test
+        WHERE
+            username='${username}'
+    </select>
+
+</mapper>

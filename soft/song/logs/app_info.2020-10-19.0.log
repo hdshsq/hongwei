@@ -1,0 +1,24 @@
+2020-10-19 11:11:35.236 [main] INFO  cn.song.hongwei.services.SysUserServicesTests - Starting SysUserServicesTests on LAPTOP-K1CFPGNS with PID 14140 (started by GZ in D:\Users\96212\IdeaProjects\hongwei)
+2020-10-19 11:11:35.241 [main] INFO  cn.song.hongwei.services.SysUserServicesTests - No active profile set, falling back to default profiles: default
+2020-10-19 11:11:36.582 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2020-10-19 11:11:36.641 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 30ms. Found 0 repository interfaces.
+2020-10-19 11:11:37.261 [main] INFO  org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$d9145e5d] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-10-19 11:11:37.771 [main] INFO  org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static cn.song.hongwei.sys.util.ServicesHandler cn.song.hongwei.sys.util.ServicesHandler.servicesHandler
+2020-10-19 11:11:38.674 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-10-19 11:11:39.071 [main] INFO  org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+2020-10-19 11:11:39.551 [main] INFO  cn.song.hongwei.services.SysUserServicesTests - Started SysUserServicesTests in 5.263 seconds (JVM running for 6.94)
+2020-10-19 11:11:39.891 [Thread-2] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-10-19 11:12:34.426 [main] INFO  cn.song.hongwei.services.SysUserServicesTests - Starting SysUserServicesTests on LAPTOP-K1CFPGNS with PID 12404 (started by GZ in D:\Users\96212\IdeaProjects\hongwei)
+2020-10-19 11:12:34.431 [main] INFO  cn.song.hongwei.services.SysUserServicesTests - No active profile set, falling back to default profiles: default
+2020-10-19 11:12:35.558 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2020-10-19 11:12:35.591 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 13ms. Found 0 repository interfaces.
+2020-10-19 11:12:36.161 [main] INFO  org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$9d1da576] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-10-19 11:12:36.701 [main] INFO  org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: private static cn.song.hongwei.sys.util.ServicesHandler cn.song.hongwei.sys.util.ServicesHandler.servicesHandler
+2020-10-19 11:12:37.731 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-10-19 11:12:38.095 [main] INFO  org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+2020-10-19 11:12:38.561 [main] INFO  cn.song.hongwei.services.SysUserServicesTests - Started SysUserServicesTests in 4.88 seconds (JVM running for 6.41)
+2020-10-19 11:12:38.865 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-10-19 11:12:40.751 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-10-19 11:12:40.871 [Thread-2] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-10-19 11:12:40.881 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2020-10-19 11:12:40.901 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.

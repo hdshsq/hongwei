@@ -1,0 +1,56 @@
+2020-10-15 09:42:14.064 [main] INFO  cn.song.hongwei.mapper.UserMapperTests - Starting UserMapperTests on LAPTOP-K1CFPGNS with PID 15872 (started by GZ in D:\Users\96212\IdeaProjects\hongwei)
+2020-10-15 09:42:14.065 [main] INFO  cn.song.hongwei.mapper.UserMapperTests - No active profile set, falling back to default profiles: default
+2020-10-15 09:42:15.024 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2020-10-15 09:42:15.062 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 16ms. Found 0 repository interfaces.
+2020-10-15 09:42:15.632 [main] INFO  org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$ec1d9687] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-10-15 09:42:17.121 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-10-15 09:42:17.502 [main] INFO  org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+2020-10-15 09:42:18.087 [main] INFO  cn.song.hongwei.mapper.UserMapperTests - Started UserMapperTests in 4.827 seconds (JVM running for 6.566)
+2020-10-15 09:42:18.622 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-10-15 09:42:20.042 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-10-15 09:42:20.139 [Thread-2] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-10-15 09:42:20.142 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2020-10-15 09:42:20.149 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2020-10-15 10:17:29.005 [main] INFO  cn.song.hongwei.mapper.UserMapperTests - Starting UserMapperTests on LAPTOP-K1CFPGNS with PID 11580 (started by GZ in D:\Users\96212\IdeaProjects\hongwei)
+2020-10-15 10:17:29.008 [main] INFO  cn.song.hongwei.mapper.UserMapperTests - No active profile set, falling back to default profiles: default
+2020-10-15 10:17:29.960 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2020-10-15 10:17:29.995 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 15ms. Found 0 repository interfaces.
+2020-10-15 10:17:30.588 [main] INFO  org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$f0d6e37f] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-10-15 10:17:31.886 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-10-15 10:17:32.222 [main] INFO  org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+2020-10-15 10:17:32.672 [main] INFO  cn.song.hongwei.mapper.UserMapperTests - Started UserMapperTests in 4.397 seconds (JVM running for 5.812)
+2020-10-15 10:37:30.548 [main] INFO  cn.song.hongwei.mapper.UserMapperTests - Starting UserMapperTests on LAPTOP-K1CFPGNS with PID 14844 (started by GZ in D:\Users\96212\IdeaProjects\hongwei)
+2020-10-15 10:37:30.550 [main] INFO  cn.song.hongwei.mapper.UserMapperTests - No active profile set, falling back to default profiles: default
+2020-10-15 10:37:31.611 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2020-10-15 10:37:31.644 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 14ms. Found 0 repository interfaces.
+2020-10-15 10:37:32.091 [main] INFO  org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$d33660c4] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-10-15 10:37:33.337 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-10-15 10:37:33.685 [main] INFO  org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+2020-10-15 10:37:34.130 [main] INFO  cn.song.hongwei.mapper.UserMapperTests - Started UserMapperTests in 4.397 seconds (JVM running for 5.795)
+2020-10-15 10:37:34.382 [Thread-2] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-10-15 17:23:56.479 [main] INFO  cn.song.hongwei.mapper.UserMapperTests - Starting UserMapperTests on LAPTOP-K1CFPGNS with PID 16752 (started by GZ in D:\Users\96212\IdeaProjects\hongwei)
+2020-10-15 17:23:56.482 [main] INFO  cn.song.hongwei.mapper.UserMapperTests - No active profile set, falling back to default profiles: default
+2020-10-15 17:23:57.565 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2020-10-15 17:23:57.603 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 16ms. Found 0 repository interfaces.
+2020-10-15 17:23:58.087 [main] INFO  org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$296415c3] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-10-15 17:23:59.445 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-10-15 17:23:59.798 [main] INFO  org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+2020-10-15 17:24:00.244 [main] INFO  cn.song.hongwei.mapper.UserMapperTests - Started UserMapperTests in 4.672 seconds (JVM running for 6.403)
+2020-10-15 17:24:00.603 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-10-15 17:24:02.499 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-10-15 17:24:02.697 [Thread-2] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-10-15 17:24:02.702 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2020-10-15 17:24:02.726 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2020-10-15 17:24:25.094 [main] INFO  cn.song.hongwei.mapper.UserMapperTests - Starting UserMapperTests on LAPTOP-K1CFPGNS with PID 5196 (started by GZ in D:\Users\96212\IdeaProjects\hongwei)
+2020-10-15 17:24:25.097 [main] INFO  cn.song.hongwei.mapper.UserMapperTests - No active profile set, falling back to default profiles: default
+2020-10-15 17:24:26.209 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2020-10-15 17:24:26.243 [main] INFO  org.springframework.data.repository.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 14ms. Found 0 repository interfaces.
+2020-10-15 17:24:26.731 [main] INFO  org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$5560d36c] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-10-15 17:24:28.120 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-10-15 17:24:28.453 [main] INFO  org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+2020-10-15 17:24:28.855 [main] INFO  cn.song.hongwei.mapper.UserMapperTests - Started UserMapperTests in 4.544 seconds (JVM running for 6.06)
+2020-10-15 17:24:29.147 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-10-15 17:24:30.997 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-10-15 17:24:31.131 [Thread-2] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-10-15 17:24:31.134 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2020-10-15 17:24:31.146 [Thread-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
